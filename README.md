@@ -137,7 +137,10 @@ sudo install -m 755 kubeseal /usr/local/bin/kubeseal
 ```
 
 </details>
-## Kubernetes Cluster
+
+
+<details>
+# kubernetes-cluster
 
 Deploy a kubernetes cluster with [kind](https://kind.sigs.k8s.io/docs/user/quick-start/) and a list of images can be found on [github](https://github.com/kubernetes-sigs/kind/releases):
 
@@ -152,6 +155,8 @@ kubectl get nodes
 # NAME                   STATUS   ROLES           AGE   
 # argocd-control-plane   Ready    control-plane   45s   
 ```
+
+<details>
 
 ## ArgoCD Setup
 
