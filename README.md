@@ -177,7 +177,7 @@ https://raw.githubusercontent.com/argoproj/argo-cd/stable/manifests/ha/install.y
 ```bash
 helm repo add argo https://argoproj.github.io/argo-helm
 helm repo update
-helm install argocd argo/argo-cd --version 5.27.1 --namespace kube-system --set "configs.params.server\.insecure=true"
+helm install argocd argo/argo-cd --version 5.27.1 --namespace argocd --set "configs.params.server\.insecure=true"
 ```
 
 ### Access ArgoCD UI
@@ -199,7 +199,7 @@ kubectl -n argocd port-forward svc/argocd-server 8080:80
 Ensure that you have a port-forward open to the server:
 
 ```bash
-kubectl -n kube-system port-forward svc/argocd-server 8080:80
+kubectl -n argocd port-forward svc/argocd-server 8080:80
 ```
 
 ### Exracting  password
