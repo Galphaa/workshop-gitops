@@ -1,5 +1,5 @@
 # argocd/fluxcd-workshop
-Experimenting with ArgoCD or FluxCD depends on mood... `¯\_(ツ)_/¯`
+Experimenting with ArgoCD or FluxCD depends on the mood... `¯\_(ツ)_/¯`
 
 ## TOC
 - [About](#about)
