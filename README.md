@@ -157,7 +157,7 @@ kubectl get nodes
 # argocd-control-plane   Ready    control-plane   45s   
 ```
 
-<details>
+</details>
 
 ## ArgoCD Setup
 
