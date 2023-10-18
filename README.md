@@ -1,4 +1,4 @@
-# argocd-workshop
+# argocd/fluxcd-workshop
 Experimenting with ArgoCD or FluxCD depends on mood... `¯\_(ツ)_/¯`
 
 ## TOC
