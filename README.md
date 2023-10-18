@@ -1,5 +1,5 @@
 # argocd-workshop
-Experimenting with ArgoCD
+Experimenting with ArgoCD or FluxCD depends on mood... `¯\_(ツ)_/¯`
 
 ## TOC
 - [About](#about)
@@ -20,6 +20,7 @@ Experimenting with ArgoCD
 - [Sealed Secrets](#sealed-secrets-and-storing-them-in-git)
   - [Installation](#sealed-secret-operator)
   - [kubeseal CLI](#kubeseal-cli)
+- [Useful Materials](#useful-materials)
 ## About
 
 This is a workshop for demonstration of GitOps. I will be deploying ArgoCD on Kubernetes using KinD.
@@ -302,3 +303,15 @@ kubectl logs -n demo-app demo-app
 ```
 
 
+## Useful Materials
+Some good exclamation of GitOps
+<details>
+  <summary>URL</summary>
+
+```bash
+https://www.youtube.com/watch?v=vLNZA_2Na_s&ab_channel=Weaveworks%2CInc.
+https://www.youtube.com/watch?v=CvMevMHExHk&ab_channel=CNCF%5BCloudNativeComputingFoundation%5D
+https://www.youtube.com/watch?v=ueTaD1FCsfU&ab_channel=CNCF%5BCloudNativeComputingFoundation%5D
+```
+
+</details>
