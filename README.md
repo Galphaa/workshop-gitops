@@ -312,6 +312,7 @@ Some good exclamation of GitOps
 https://www.youtube.com/watch?v=vLNZA_2Na_s&ab_channel=Weaveworks%2CInc.
 https://www.youtube.com/watch?v=CvMevMHExHk&ab_channel=CNCF%5BCloudNativeComputingFoundation%5D
 https://www.youtube.com/watch?v=ueTaD1FCsfU&ab_channel=CNCF%5BCloudNativeComputingFoundation%5D
+https://fluxcd.io/flux/guides/repository-structure/
 ```
 
 </details>
